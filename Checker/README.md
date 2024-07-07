@@ -27,7 +27,7 @@ python -m falcon [relative file based on root directory of falcon]
 
 ## Dataset
 
-Dataset used to evaluate GPTScan in the paper, are the following:
+Dataset used to evaluate ZepScope in the paper, are the following:
 1. GroundTruth Dataset: [https://github.com/ZepScope/dataset/tree/main/groundtruth](https://github.com/ZepScope/dataset/tree/main/groundtruth)
 2. Large Scale Dataset: [https://github.com/ZepScope/dataset/tree/main/large_scale_datasets](https://github.com/ZepScope/dataset/tree/main/large_scale_datasets)
 
